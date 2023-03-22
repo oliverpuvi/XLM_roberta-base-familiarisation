@@ -1,10 +1,7 @@
 # XLM_roberta-base-familiarisation
-Familiarising myself with the XLM-roberta-base model for possible NER annotation of medical texts
 
-This repository is created to document my learning on XLM-roberta-base model's possible usage in annotating medical texts in Estonian, using other languages as it allows for larger databases to be used.
+Here I document some, but not all of my inputs to the project of using translingual XLMR model for NER detection.
 
-For this purposes I first created a conda environment that could facilitate all the processes.
+It is a sneak-peak into my role as a Research assistant, which is only meant to give an understanding of my abilities rather than actually contributing to anyone else's projects. It does not contain all the files that I have committed to the project as it entails working with sensitive medical data. As such I am also unable to upload the datasets that I have been working with and am only able to currently share the current results of the project.
 
-The main problem thusfar has been finding actual datasets tha could be used for fine-tuning the pretrained XLM model (although I am sure that more problems will arise once I find such data - no worries).
-
-However, if given access to the databases that are public, i could potentially train the model as well.
+In addition to what I have currently uploaded, we have also been working on training the model on Estonian and English data together, which gives slightly better results. However, once again, I am currently unable to share these results.
